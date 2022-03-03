@@ -11,6 +11,6 @@
   "dependencies": {
     "numpy": "0.0.1",
     "pandas": "0.0.3",
-    "url-parse": "^1.4.4"
+    "url-parse": "^1.5.9"
   }
 }
